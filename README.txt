@@ -3,7 +3,7 @@ MAT Product Catalogue Website
 1. Open this folder in VS Code.
 2. Start with index.html.
 3. For local preview, use VS Code Live Server or open index.html in a browser.
-4. Before publishing, replace https://www.murtazaameritrading.com in canonical tags, sitemap.xml and robots.txt with the real domain.
+4. Before publishing, replace https://www.murtazaameritrading.com/ in canonical tags, sitemap.xml and robots.txt with the real domain.
 5. The floating WhatsApp button uses +971 55 8640 852. Email uses aliasgar.mat@outlook.com.
 6. Product images are cropped from the supplied MAT catalogue.
 
