@@ -639,3 +639,66 @@ h1 span {
     bottom: 16px;
   }
 }
+
+/* =========================
+   Compact Contact Section
+   ========================= */
+
+.contact-box {
+  display: block;
+}
+
+.contact-intro {
+  width: 100%;
+}
+
+.contact-links {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 12px;
+  margin-top: 24px;
+}
+
+.contact-link {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  width: auto;
+  min-height: 48px;
+  padding: 0 18px;
+  box-sizing: border-box;
+  text-decoration: none;
+}
+
+.contact-link.wa {
+  width: auto;
+  height: auto;
+  min-height: 48px;
+}
+
+.contact-link.wa svg {
+  width: 20px;
+  height: 20px;
+  flex: 0 0 20px;
+}
+
+.social-links {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-top: 12px;
+}
+
+.social-link {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 40px;
+  padding: 0 16px;
+  box-sizing: border-box;
+  text-decoration: none;
+}
